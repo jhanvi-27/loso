@@ -1,0 +1,37 @@
+/* small devices */
+@media only screen and (max-width:767px){
+    .navbar-default{
+        background-color: #fff !important;
+        border-color: #e6e6e6;
+    }
+    .choose-us-section img{
+        width: 100%;
+    }
+    .choose-us-section{
+        text-align: center;
+    }
+    .purchase-now .col-md-3{
+        text-align: center;
+        padding-top: 50px;
+    }
+}
+
+/* small devices and tablets*/
+@media only screen and (max-width:768px){
+    .iphone{
+        display: none;
+    }
+    .header-text, .header-btns{
+        text-align: center;
+    }
+}
+
+/* medium devices and desktop */
+@media only screen and (max-width:992px){
+
+}
+
+/* large devices and wide screen */
+@media only screen and (max-width:1200px){
+
+}
